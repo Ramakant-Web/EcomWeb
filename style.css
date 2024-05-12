@@ -61,6 +61,11 @@ body {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
 }
 
+.logo {
+    size: 50px;
+    width: 50px;
+}
+
 #navbar{
     display: flex;
     align-items: center;
